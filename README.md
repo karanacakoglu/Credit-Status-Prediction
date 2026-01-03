@@ -1,4 +1,4 @@
-### 💳 Credit Status Prediction: A Comparative Machine Learning Study
+# 💳 Credit Status Prediction: A Comparative Machine Learning Study
 
 * **Project Overview**
 This repository contains a comprehensive comparative analysis of various machine learning algorithms to predict customer loan approval status. The project evaluates how financial and demographic factors—such as income, marital status, education, and credit history—influence credit eligibility.
