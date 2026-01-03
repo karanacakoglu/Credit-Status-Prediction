@@ -1,6 +1,22 @@
-### 3. Project Name: Credit Status Prediction
+### 💳 Credit Status Prediction: A Comparative Machine Learning Study
 
-**Description:** Based on the data in the dataset, the model will predict whether a person will be granted a credit card. For model performance selection, the following models were tested: Logistic Regression, K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), Kernel SVM, Naive Bayes, Decision Tree Classifier, Random Forest Classifier, XGBoost, and LGBM.
+* **Project Overview**
+This repository contains a comprehensive comparative analysis of various machine learning algorithms to predict customer loan approval status. The project evaluates how financial and demographic factors—such as income, marital status, education, and credit history—influence credit eligibility.
+
+* **🔬 Experimental Setup & Methodology**
+To identify the most effective predictive model, I implemented and benchmarked 9 different classification algorithms:
+* **Linear Models:** Logistic Regression.
+* **Distance-Based Models:** K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), and Kernel SVM.
+* **Probabilistic Models:** Naive Bayes.
+* **Tree-Based & Ensemble Models:** Decision Tree, Random Forest, XGBoost, and LightGBM (LGBM).
+
+* **🛠️ Technical Workflow**
+* **Data Acquisition:** Accessed the Loan Prediction Problem Dataset from Kaggle via API and manual uploads.
+* **Feature Engineering:** Analyzed key financial indicators including Income, Credit History, and Marital Status to determine loan eligibility.
+* **Performance Evaluation:** Compared all models based on accuracy and other classification metrics to select the optimal solution for financial risk assessment.
+
+* **💻 Implementation (Google Colab)**
+Each algorithm is documented in its own dedicated notebook for clarity:
 
 * **💻 Colab NoteBooks (Logistic Regression Google Colab):**([Logistic Regression](https://colab.research.google.com/drive/1yWg3rQzQfUi3Fr4L0x5hG_ZISOhZ8Q-P?usp=sharing))
 * **💻 Colab NoteBooks (K-Neearest Neighbors(K-NN) Google Colab):**([k-NN](https://colab.research.google.com/drive/1REq7rIvTSSTlJx3JUN9YF0bCwVdOH4lU?usp=sharing))
