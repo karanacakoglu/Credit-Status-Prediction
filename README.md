@@ -1,3 +1,5 @@
+### 3. Project Name: Credit Status Prediction
+
 **Description:** Based on the data in the dataset, the model will predict whether a person will be granted a credit card. For model performance selection, the following models were tested: Logistic Regression, K-Nearest Neighbors (K-NN), Support Vector Machine (SVM), Kernel SVM, Naive Bayes, Decision Tree Classifier, Random Forest Classifier, XGBoost, and LGBM.
 
 * **💻 Colab NoteBooks (Logistic Regression Google Colab):**([Logistic Regression](https://colab.research.google.com/drive/1yWg3rQzQfUi3Fr4L0x5hG_ZISOhZ8Q-P?usp=sharing))
